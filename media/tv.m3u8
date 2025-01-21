@@ -18,6 +18,10 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Classic Arts Showcase" tvg-language="eng" tvg-country="US" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-name="Euronews по-русски" tvg-language="rus" tvg-country="FR" tvg-id="EuronewsRussian.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Euronews по-русски
+http://185.37.150.40:8092/Euronews/playlist.m3u8
+# https://www.youtube.com/euronewsru/live
+
 #EXTINF:-1 tvg-chno="" tvg-name="Deutsche Welle" tvg-language="rus" tvg-country="DE" tvg-id="DeutscheWelleDE+.de" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
@@ -49,13 +53,6 @@ http://92.114.85.81:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="BBC Two" tvg-language="eng" tvg-country="UK" tvg-id="bbctwo" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",BBC Two
 http://92.114.85.81:8000/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-name="BBC Three" tvg-language="eng" tvg-country="UK" tvg-id="bbcthree" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",BBC Three
-http://92.114.85.81:8000/play/a017/index.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-name="BBC Four" tvg-language="eng" tvg-country="UK" tvg-id="bbcfour" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",BBC Four
-http://92.114.85.81:8000/play/a007/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="" tvg-name="ТВ Центр" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
