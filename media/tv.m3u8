@@ -38,6 +38,9 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="RTД" tvg-language="rus" tvg-country="RU" tvg-id="RTDocumentaryRussian.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",RTД
 https://hls.rt.com/hls/rtdru.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-name="Россия 1" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="Звезда" tvg-language="rus" tvg-country="RU" tvg-id="zvezda" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
