@@ -9,7 +9,6 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 # https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-# https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24.en" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
@@ -38,3 +37,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="RTД" tvg-language="rus" tvg-country="RU" tvg-id="RTDocumentaryRussian.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",RTД
 https://hls.rt.com/hls/rtdru.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Звезда" tvg-language="rus" tvg-country="RU" tvg-id="zvezda" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
