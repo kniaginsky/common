@@ -14,6 +14,9 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24.en" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-name="Al Jazeera" tvg-language="eng" tvg-country="QA" tvg-id="al-jazeera-int" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="Deutsche Welle" tvg-language="rus" tvg-country="DE" tvg-id="DeutscheWelleDE+.de" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
@@ -22,3 +25,4 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 
 #EXTINF:-1 tvg-chno="" tvg-name="Настоящее время" tvg-language="rus" tvg-country="CZ" tvg-id="CurrentTimeTV.cz" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
+# https://www.youtube.com/@CurrentTimeTV/live
