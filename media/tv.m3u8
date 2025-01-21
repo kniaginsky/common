@@ -96,3 +96,6 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="Алмазный край" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Алмазный край
 https://stream.almaz-media.tv:8080/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Большая Азия" tvg-language="rus" tvg-country="RU" tvg-id="bigasiaru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
