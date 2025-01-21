@@ -1,2 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="News",BBC News
+https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
