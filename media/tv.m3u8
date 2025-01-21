@@ -72,7 +72,10 @@ https://streamsrv1.tvspb.ru/OTT/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="360°" tvg-language="rus" tvg-country="RU" tvg-id="360-podmoskovie" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Енисей" tvg-language="rus" tvg-country="RU" tvg-id="enisey-region" tvg-logo="" group-title="Региональные",Енисей
+#EXTINF:-1 tvg-chno="" tvg-name="Телеканал Краснодар" tvg-language="rus" tvg-country="RU" tvg-id="tvkrasnodar" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Енисей" tvg-language="rus" tvg-country="RU" tvg-id="enisey-region" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Енисей
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="Саха" tvg-language="" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Саха
