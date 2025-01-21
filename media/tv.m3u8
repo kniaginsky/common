@@ -71,3 +71,6 @@ https://streamsrv1.tvspb.ru/OTT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="360°" tvg-language="rus" tvg-country="RU" tvg-id="360-podmoskovie" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Саха" tvg-language="" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
