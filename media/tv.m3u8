@@ -32,3 +32,6 @@ https://online-video.rbc.ru/online/rbctv.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="RT" tvg-language="eng" tvg-country="RU" tvg-id="RT.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="RTД" tvg-language="rus" tvg-country="RU" tvg-id="RTDocumentaryRussian.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",RTД
+https://hls.rt.com/hls/rtdru.m3u8
