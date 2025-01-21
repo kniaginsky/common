@@ -37,3 +37,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="Звезда Плюс" tvg-language="rus" tvg-country="RU" tvg-id="zvezdaplus" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Звезда Плюс
 https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Ратник" tvg-language="rus" tvg-country="RU" tvg-id="ratnik" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Ратник
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
