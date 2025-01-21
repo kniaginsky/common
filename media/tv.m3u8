@@ -1,10 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="News",BBC News
+#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 # https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/iptv_hd_abr_v1.mpd
 # https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="News",BBC News UK
+#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24.en" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
