@@ -124,6 +124,10 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Classic Arts Showcase" tvg-language="eng" tvg-country="US" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-name="Le Figaro" tvg-language="fr" tvg-country="FR" tvg-id="" tvg-logo="" tvg-type="channel"  tvg-url="" group-title="",Le Figaro
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+# https://static.lefigaro.fr/secom/tnt.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="პირველი არხი" tvg-language="kat" tvg-country="GE" tvg-id="1tvge" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 
