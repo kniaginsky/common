@@ -85,6 +85,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 tvg-chno="" tvg-name="Телеканал Краснодар" tvg-language="rus" tvg-country="RU" tvg-id="tvkrasnodar" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-language="rus" tvg-country="RU" tvg-name="Волга" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="Губерния Самара" tvg-language="rus" tvg-country="RU" tvg-id="gubernia-samara" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Губерния Самара
 https://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 
