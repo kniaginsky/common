@@ -23,6 +23,9 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 # https://www.youtube.com/@CurrentTimeTV/live
 
+#EXTINF:-1 tvg-chno="" tvg-name="Дождь" tvg-language="rus" tvg-country="NL" tvg-id="TVRain.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="ТАСС" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
