@@ -3,10 +3,13 @@
 #EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24.en" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
+# EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24.en" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
+# https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Al Jazeera" tvg-language="eng" tvg-country="QA" tvg-id="al-jazeera-int" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Al Jazeera
+#EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="fr" tvg-country="FR" tvg-id="France24.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Aljazeera" tvg-language="eng" tvg-country="QA" tvg-id="al-jazeera-int" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Aljazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="Bloomberg" tvg-language="eng" tvg-country="US" tvg-id="BloombergTVEurope" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Bloomberg
