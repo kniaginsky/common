@@ -127,5 +127,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="პირველი არხი" tvg-language="kat" tvg-country="GE" tvg-id="1tvge" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="პირველი არხი — ტელესკოლა" tvg-language="kat" tvg-country="GE" tvg-id="2tvge" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",პირველი არხი — ტელესკოლა
+#EXTINF:-1 tvg-chno="" tvg-name="პირველი არხი — ტელესკოლა" tvg-language="kat" tvg-country="GE" tvg-id="2tvge" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",პირველი არხი — ტელესკოლა
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="იმედი" tvg-language="kat" tvg-country="GE" tvg-id="imeditv" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/playlist.m3u8
