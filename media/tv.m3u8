@@ -79,6 +79,9 @@ https://dumatv.iptv2022.com/index.m3u8
 https://streamsrv1.tvspb.ru/OTT/playlist.m3u8
 # https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
 
+# EXTINF:-1 tvg-chno="" tvg-name="Москва 24" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Москва 24
+# https://www.m24.ru/trans/air/pl.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="360°" tvg-language="rus" tvg-country="RU" tvg-id="360-podmoskovie" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
