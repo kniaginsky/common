@@ -117,9 +117,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Астрахань 24" tvg-language="rus" tvg-country="RU" tvg-id="Astrakhan24.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Губерния Самара" tvg-language="rus" tvg-country="RU" tvg-id="gubernia-samara" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Губерния Самара
-https://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="" tvg-name="Тюменское время" tvg-language="rus" tvg-country="RU" tvg-id="tumenskoe-vremia" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Региональные",Тюменское время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
 
