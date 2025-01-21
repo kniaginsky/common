@@ -2,4 +2,9 @@
 #EXT-X-VERSION:3
 
 #EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="News",BBC News
-https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+# https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/iptv_hd_abr_v1.mpd
+# https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="News",BBC News UK
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
