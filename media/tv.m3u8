@@ -47,8 +47,9 @@ https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Мир 24" tvg-language="rus" tvg-country="RU" tvg-id="Mir24.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-# EXTINF:-1 tvg-chno="" tvg-name="Россия К" tvg-language="rus" tvg-country="RU" tvg-id="vgtrk-kultura" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",ВГТРК Культура
-# https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="Россия К" tvg-language="rus" tvg-country="RU" tvg-id="vgtrk-kultura" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",ВГТРК Культура
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+# https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8 отключен
 
 #EXTINF:-1 tvg-chno="" tvg-name="ТВ Центр" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
