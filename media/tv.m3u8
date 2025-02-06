@@ -18,8 +18,8 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Classic Arts Showcase" tvg-language="eng" tvg-country="US" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Euronews по-русски" tvg-language="rus" tvg-country="FR" tvg-id="EuronewsRussian.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Euronews по-русски
-http://185.37.150.40:8092/Euronews/playlist.m3u8
+# EXTINF:-1 tvg-chno="" tvg-name="Euronews по-русски" tvg-language="rus" tvg-country="FR" tvg-id="EuronewsRussian.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Euronews по-русски
+# http://185.37.150.40:8092/Euronews/playlist.m3u8
 # https://www.youtube.com/euronewsru/live
 
 #EXTINF:-1 tvg-chno="" tvg-name="Deutsche Welle" tvg-language="rus" tvg-country="DE" tvg-id="DeutscheWelleDE+.de" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",DW
@@ -35,7 +35,7 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Дождь" tvg-language="rus" tvg-country="NL" tvg-id="TVRain.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Президентская библиотека им. Ельцина" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",Президентская библиотека им. Ельцина
+#EXTINF:-1 tvg-chno="" tvg-name="Президентская библиотека им. Ельцина" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",Президентская библиотека им. Ельцина
 https://0imald4zff.a.trbcdn.net/hls/6345346733803a0001930ddc/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="ТАСС" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",ТАСС
