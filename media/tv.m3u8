@@ -174,6 +174,9 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Астрахань 24" tvg-language="rus" tvg-country="RU" tvg-id="Astrahan24.ru" tvg-logo="" tvg-type="channel" tvg-url="https://cdn.astrakhan-24.ru/" group-title="Региональные",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-name="ТВК" tvg-language="ru" tvg-country="RU" tvg-id="TVK.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.tvk6.ru/" group-title="Региональные",ТВК
+https://air.tvk6.ru/tvk24/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="Прима" tvg-language="ru" tvg-country="RU" tvg-id="Prima.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.prima-tv.ru/" group-title="Региональные",Прима (Красноярск)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 
