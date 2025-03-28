@@ -1,53 +1,62 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",BBC News UK
+#EXTINF:-1 tvg-chno="" tvg-name="BBC News" tvg-language="eng" tvg-country="UK" tvg-id="BBCNews.uk" tvg-logo="" tvg-type="channel" tvg-url="https://www.bbc.co.uk/tv/bbcnews" group-title="Новости",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 
-# EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24.en" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
+# EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="eng" tvg-country="FR" tvg-id="France24English.fr" tvg-logo="" tvg-type="channel" tvg-url="https://www.france24.com/" group-title="Новости",France 24
 # https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="fr" tvg-country="FR" tvg-id="France24.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",France 24
+#EXTINF:-1 tvg-chno="" tvg-name="France 24" tvg-language="fr" tvg-country="FR" tvg-id="France24French.fr" tvg-logo="" tvg-type="channel" tvg-url="https://www.france24.com/" group-title="Новости",France 24 (France)
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Aljazeera" tvg-language="eng" tvg-country="QA" tvg-id="al-jazeera-int" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Aljazeera
+#EXTINF:-1 tvg-chno="" tvg-name="Aljazeera" tvg-language="eng" tvg-country="QA" tvg-id="AlJazeeraEnglish.qa" tvg-logo="" tvg-type="channel" tvg-url="https://www.aljazeera.com/" group-title="Новости",Aljazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Bloomberg" tvg-language="eng" tvg-country="US" tvg-id="BloombergTVEurope" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Bloomberg
+#EXTINF:-1 tvg-chno="" tvg-name="Bloomberg" tvg-language="eng" tvg-country="US" tvg-id="BloombergTVEurope.uk" tvg-logo="" tvg-type="channel" tvg-url="https://www.bloomberg.com/live/europe" group-title="Новости",Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Classic Arts Showcase" tvg-language="eng" tvg-country="US" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",Classic Arts Showcase
+#EXTINF:-1 tvg-chno="" tvg-name="Classic Arts Showcase" tvg-language="eng" tvg-country="US" tvg-id="ClassicArtsShowcase.us" tvg-logo="" tvg-type="channel" tvg-url="https://www.classicartsshowcase.org/" group-title="Культура",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-name="Euronews" tvg-language="eng" tvg-country="FR" tvg-id="EuronewsEnglish.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Euronews
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
 # EXTINF:-1 tvg-chno="" tvg-name="Euronews по-русски" tvg-language="rus" tvg-country="FR" tvg-id="EuronewsRussian.fr" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Euronews по-русски
-# http://185.37.150.40:8092/Euronews/playlist.m3u8
+# архив http://185.37.150.40:8092/Euronews/playlist.m3u8
 # https://www.youtube.com/euronewsru/live
 
-#EXTINF:-1 tvg-chno="" tvg-name="Deutsche Welle" tvg-language="rus" tvg-country="DE" tvg-id="DeutscheWelleDE+.de" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",DW
+#EXTINF:-1 tvg-chno="" tvg-name="Deutsche Welle" tvg-language="rus" tvg-country="DE" tvg-id="DWRussian.de" tvg-logo="" tvg-type="channel" tvg-url="https://www.dw.com/" group-title="Новости",DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="CGTN" tvg-language="rus" tvg-country="CH" tvg-id="CGTNRussian.cn" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",CGTN
+#EXTINF:-1 tvg-chno="" tvg-name="Deutsche Welle" tvg-language="eng" tvg-country="DE" tvg-id="DWEnglish.de" tvg-logo="" tvg-type="channel" tvg-url="https://www.dw.com/" group-title="Новости",DW (English)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="CGTN" tvg-language="rus" tvg-country="CH" tvg-id="CGTNRussian.cn" tvg-logo="" tvg-type="channel" tvg-url="https://russian.cgtn.com/" group-title="Новости",CGTN
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Настоящее время" tvg-language="rus" tvg-country="CZ" tvg-id="CurrentTimeTV.cz" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Настоящее время
+#EXTINF:-1 tvg-chno="" tvg-name="Настоящее время" tvg-language="rus" tvg-country="CZ" tvg-id="CurrentTimeTV.cz" tvg-logo="" tvg-type="channel" tvg-url="https://www.currenttime.tv/" group-title="Новости",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 # https://www.youtube.com/@CurrentTimeTV/live
 
 #EXTINF:-1 tvg-chno="" tvg-name="Дождь" tvg-language="rus" tvg-country="NL" tvg-id="TVRain.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Президентская библиотека им. Ельцина" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",Президентская библиотека им. Ельцина
+#EXTINF:-1 tvg-chno="" tvg-name="Президентская библиотека им. Ельцина" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="https://www.prlib.ru" group-title="Культура",Президентская библиотека им. Ельцина
 https://0imald4zff.a.trbcdn.net/hls/6345346733803a0001930ddc/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="ТАСС" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",ТАСС
+#EXTINF:-1 tvg-chno="" tvg-name="ТАСС" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="https://tass.ru/" group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="РБК" tvg-language="rus" tvg-country="RU" tvg-id="RBKTV.RU" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",РБК
+#EXTINF:-1 tvg-chno="" tvg-name="РБК" tvg-language="rus" tvg-country="RU" tvg-id="RBKTV.RU" tvg-logo="" tvg-type="channel" tvg-url="https://tv.rbc.ru/" group-title="Новости",РБК
 https://online-video.rbc.ru/online/rbctv.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Мир 24" tvg-language="rus" tvg-country="RU" tvg-id="Mir24.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Новости",Мир 24
+#EXTINF:-1 tvg-chno="" tvg-name="Мир" tvg-language="rus" tvg-country="RU" tvg-id="Mir.ru" tvg-logo="" tvg-type="channel" tvg-url="https://mirtv.ru/" group-title="Новости",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Мир 24" tvg-language="rus" tvg-country="RU" tvg-id="Mir24.ru" tvg-logo="" tvg-type="channel" tvg-url="https://mir24.tv/" group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Россия К" tvg-language="rus" tvg-country="RU" tvg-id="vgtrk-kultura" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Культура",ВГТРК Культура
+#EXTINF:-1 tvg-chno="" tvg-name="Россия К" tvg-language="rus" tvg-country="RU" tvg-id="RussiaK.ru" tvg-logo="" tvg-type="channel" tvg-url="http://smotrim.ru/pick/kultura" group-title="Культура",ВГТРК Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 # https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8 отключен
 
