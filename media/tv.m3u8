@@ -87,37 +87,42 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 # https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 # https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-name="RT" tvg-language="eng" tvg-country="RU" tvg-id="RT.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",RT
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="RT" tvg-language="eng" tvg-country="RU" tvg-id="RT.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.rt.com/" group-title="Танк застрял в воротах цирка",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+# https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="RTД" tvg-language="rus" tvg-country="RU" tvg-id="RTDocumentaryRussian.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",RTД
+#EXTINF:-1 tvg-chno="" tvg-name="RTД" tvg-language="rus" tvg-country="RU" tvg-id="RTDocumentaryRussian.ru" tvg-logo="" tvg-type="channel" tvg-url="https://rtd.rt.com/" group-title="Танк застрял в воротах цирка",RTД
 https://hls.rt.com/hls/rtdru.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Россия 1" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Россия 1
+#EXTINF:-1 tvg-chno="" tvg-name="RTD" tvg-language="eng" tvg-country="RU" tvg-id="RTDocumentaryEnglish.ru" tvg-logo="" tvg-type="channel" tvg-url="https://rtd.rt.com/" group-title="Танк застрял в воротах цирка",RTD
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+# https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Россия 1" tvg-language="rus" tvg-country="RU" tvg-id="Russia1HD.ru" tvg-logo="" tvg-type="channel" tvg-url="https://russia.tv/" group-title="Танк застрял в воротах цирка",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="Соловьев Live" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
-#EXTINF:-1 tvg-chno="" tvg-name="Звезда" tvg-language="rus" tvg-country="RU" tvg-id="zvezda" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Звезда
+#EXTINF:-1 tvg-chno="" tvg-name="Звезда" tvg-language="rus" tvg-country="RU" tvg-id="Zvezda.ru" tvg-logo="" tvg-type="channel" tvg-url="https://tvzvezda.ru/" group-title="Танк застрял в воротах цирка",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Звезда Плюс" tvg-language="rus" tvg-country="RU" tvg-id="zvezdaplus" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Звезда Плюс
+#EXTINF:-1 tvg-chno="" tvg-name="Звезда Плюс" tvg-language="rus" tvg-country="RU" tvg-id="ZvezdaPlus.ru" tvg-logo="" tvg-type="channel" tvg-url="https://tvzvezda.ru/sp/zvezda-plus/" group-title="Танк застрял в воротах цирка",Звезда Плюс
 https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Ратник" tvg-language="rus" tvg-country="RU" tvg-id="ratnik" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Ратник
+#EXTINF:-1 tvg-chno="" tvg-name="Ратник" tvg-language="rus" tvg-country="RU" tvg-id="Ratnik.ru" tvg-logo="" tvg-type="channel" tvg-url="https://ratnik.tv/" group-title="Танк застрял в воротах цирка",Ратник
 https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Общественная Служба Новостей" tvg-language="rus" tvg-country="RU" tvg-id="OSN.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",ОСН
+#EXTINF:-1 tvg-chno="" tvg-name="Общественная Служба Новостей" tvg-language="rus" tvg-country="RU" tvg-id="OSN.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.osnmedia.ru/tv/" group-title="Танк застрял в воротах цирка",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name-"БРИКС" tvg-language="rus" tvg-country="" tvg-id="TVBRICSRussian.ru" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Институциональные",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Вместе РФ" tvg-language="rus" tvg-country="RU" tvg-id="vmeste-rf" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Институциональные",Вместе РФ
+#EXTINF:-1 tvg-chno="" tvg-name="Вместе РФ" tvg-language="rus" tvg-country="RU" tvg-id="VmesteRF.ru" tvg-logo="" tvg-type="channel" tvg-url="https://vmeste-rf.tv/" group-title="Институциональные",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Дума ТВ" tvg-language="rus" tvg-country="RU" tvg-id="dumatv" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Институциональные",Дума ТВ
+#EXTINF:-1 tvg-chno="" tvg-name="Дума ТВ" tvg-language="rus" tvg-country="RU" tvg-id="DumaTV.ru" tvg-logo="" tvg-type="channel" tvg-url="https://dumatv.ru/" group-title="Институциональные",Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
 #архивный https://live-dumatv.cdnvideo.ru/dumatv/dumatv/playlist.m3u8
 
