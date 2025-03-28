@@ -60,25 +60,28 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 # https://vgtrksmotrim.cdnvideo.ru/hls/russia_k/playlist.m3u8 отключен
 
-#EXTINF:-1 tvg-chno="" tvg-name="ТВ Центр" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",ТВЦ
+#EXTINF:-1 tvg-chno="" tvg-name="ТВ Центр" tvg-language="rus" tvg-country="RU" tvg-id="TVCentr.ru" tvg-logo="" tvg-type="channel" tvg-url="http://www.tvc.ru/" group-title="",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="НТВ" tvg-language="rus" tvg-country="RU" tvg-id="" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",НТВ
+#EXTINF:-1 tvg-chno="" tvg-name="НТВ" tvg-language="rus" tvg-country="RU" tvg-id="NTV.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.ntv.ru/" group-title="",НТВ
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
-# EXTINF:-1 tvg-name="НТВ Право" tvg-id="ntvlaw" tvg-country="RU group-title="Undefined",НТВ Право
-# https://cdn.ntv.ru/th_pravo/playlist.m3u8
-# EXTINF:-1 tvg-name="НТВ Сериал" tvg-id="ntvseries" tvg-country="RU group-title="Series",НТВ Сериал
-# https://cdn.ntv.ru/th_serial/playlist.m3u8
-# EXTINF:-1 tvg-name="НТВ Хит" tvg-id="ntvstyle" tvg-country="RU group-title="Lifestyle",НТВ Хит
-# https://cdn.ntv.ru/th_hit/playlist.m3u8
-# EXTINF:-1 tvg-name="НТВ Стиль" tvg-id="ntvhit" tvg-country="RU group-title="Series",НТВ Стиль
-# https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="НТВ Право" tvg-language="rus" tvg-country="RU" tvg-id="NTVLaw.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.ntv.ru/air/ntvlaw/" group-title="",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Неизвестная Россия" tvg-language="rus" tvg-country="RU" tvg-id="neizvestnaya-rosia" tvg-logo="" tvg-type="channel" tvg-url="" group-title="",Неизвестная Россия
+#EXTINF:-1 tvg-chno="" tvg-name="НТВ Сериал" tvg-language="rus" tvg-country="RU" tvg-id="NTVSeries.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.ntv.ru/air/ntvseries/" group-title="",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="НТВ Хит" tvg-language="rus" tvg-country="RU" tvg-id="NTVHit.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.ntv.ru/air/ntvhit/" group-title="",НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="НТВ Стиль" tvg-language="rus" tvg-country="RU" tvg-id="NTVStyle.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.ntv.ru/air/ntvstyle/" group-title="",НТВ Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Неизвестная Россия" tvg-language="rus" tvg-country="RU" tvg-id="UnknownRussia.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.ntv.ru/air/unknown_russia/" group-title="",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-name="Первый" tvg-language="rus" tvg-country="RU" tvg-id="pervy" tvg-logo="" tvg-type="channel" tvg-url="" group-title="Танк застрял в воротах цирка",Первый
+#EXTINF:-1 tvg-chno="" tvg-name="Первый" tvg-language="rus" tvg-country="RU" tvg-id="ChannelOneHD.ru" tvg-logo="" tvg-type="channel" tvg-url="https://www.1tv.ru/" group-title="Танк застрял в воротах цирка",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 # https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 # https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
