@@ -217,5 +217,11 @@ https://tv.cdn.xsg.ge/imedihd/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="Formula" tvg-language="kat" tvg-country="GE" tvg-id="Formula.ge" tvg-logo="" tvg-type="channel" tvg-url="https://formula.ge/" group-title="Новости",ფორმულა
 https://c4635.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
 
+
+#EXTINF:-1 tvg-chno="" tvg-name="Univer TV" tvg-language="ru" tvg-country="RU" tvg-id="UniverTV.ru" tvg-logo="" tvg-type="channel" tvg-url="https://universmotri.ru/" group-title="Культура",Универ ТВ
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+# https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+# https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="Спас" tvg-language="ru" tvg-country="RU" tvg-id="Spas.ru" tvg-logo="" tvg-type="channel" tvg-url="http://spastv.ru/" group-title="Религиозные",Спас
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
